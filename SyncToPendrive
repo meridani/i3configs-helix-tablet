@@ -1,0 +1,4 @@
+!#/bin/bash
+
+rsync -aAXvP --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} / /mnt/pendriver
+
