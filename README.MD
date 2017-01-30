@@ -6,3 +6,5 @@ Need 20-intel.conf in xorg.conf.d
 
 Move start_conky_maia to /usr/bin/ to remove bottom left conky
 
+To backup the system mount something to /mnt/pendrive than run SyncToPendrive
+
