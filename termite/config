@@ -1,0 +1,37 @@
+[options]
+scroll_on_keystroke = true
+allow_bold = true
+dynamic_title = true
+clickable_url = true
+font = Source Code Pro for Powerline, Medium 13
+#font = Meslo LG S Regular for Powerline, 12
+search_wrap = true
+scrollback_lines = 1000
+
+cursor_blink = system
+
+browser = chromium
+
+[colors]
+cursor = #cccccc
+foreground = #cccccc
+foreground_bold = #dddddd
+background = rgba(22, 22, 22, 0.7)
+
+color0 = #222222
+color1 = #e84f4f
+color2 = #b7ce42
+color3 = #fea63c
+color4 = #66aabb
+color5 = #b7416e
+color6 = #6d878d
+color7 = #dddddd
+color8 = #666666
+color9 = #d23d3d
+color10 = #bde077
+color11 = #ffe863
+color12 = #aaccbb
+color13 = #e16a98
+color14 = #42717b
+color15 = #cccccc
+
