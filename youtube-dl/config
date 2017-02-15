@@ -1,0 +1,5 @@
+--restrict-filenames
+
+--no-mtime
+
+-o ~/Music/%(title)s.%(ext)s
