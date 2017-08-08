@@ -8,3 +8,13 @@ Move start_conky_maia to /usr/bin/ to remove bottom left conky
 
 To backup the system mount something to /mnt/pendrive than run SyncToPendrive
 
+Fix terminal fonts: Patched fonts
+# clone
+git clone https://github.com/powerline/fonts.git
+# install
+cd fonts
+./install.sh
+# clean-up a bit
+cd ..
+rm -rf fonts
+
